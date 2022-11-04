@@ -1,0 +1,7 @@
+mkdir Spr_git_Imie_Nazwisko
+cd Spr_git_Imie_Nazwisko
+git init
+touch tekst.txt
+git status
+git add
+
